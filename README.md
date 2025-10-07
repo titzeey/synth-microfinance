@@ -1,0 +1,7 @@
+# Synth Microfinance
+
+Synth Microfinance is a decentralized ecosystem that provides instant, collateral-free loans to underbanked populations through community-driven risk assessment and behavioral lending patterns. The platform combines microfinance accessibility with blockchain transparency, enabling borrowers to access capital while building verifiable credit histories through community vouching and successful repayment records.
+
+The system operates on a tri-token economic model featuring SYNT governance tokens, TRUST reputation tokens that appreciate with successful loan performance, and IMPACT tokens minted when borrowers achieve verified social outcomes. Smart contracts automatically adjust interest rates based on community trust scores and demographic cohort performance, while a mobile-enabled community oracle network validates loan utilization and impact metrics in real-time to maintain an immutable impact ledger.
+
+Borrowers benefit from progressively lower interest rates and higher loan limits as they build credit scores, while achieving measurable social impacts in business growth, education, or health unlocks additional token rewards. The platform eliminates traditional intermediary fees through automated escrow systems and creates sustainable community-driven underwriting where local validators earn yields for successful vouching, making microfinance more accessible and transparent for underserved populations.
